@@ -2,11 +2,7 @@
 
 <div style="text-align: justify"><i>Experienced Data Science professional with 4+ years hands-on experience in statistical modelling and machine learning techniques. Exceptional understanding of descriptive and predictive analytics. I have extensively worked on data processing, interpreting complex and multidimensional datasets, database management, programming, problem solving, visualizations and reporting, making a true impact across various domains and industries.</i></div>
 
----
-
 [Email](mailto:suryateja.0153@gmail.com) / [Website](https://suryateja0153.github.io/) / [LinkedIn](https://www.linkedin.com/in/suryateja-chalapati/) / [GitHub](https://github.com/suryateja0153) / [Twitter](https://twitter.com/suryateja0153)
-
----
 
 ## Experience
 
@@ -33,8 +29,6 @@
 - Saved over $9000 in costs by utilizing lean-agile methods and by leveraging data achieved a 15.3% reduction in rollout times.
 - **_Technologies & Concepts Used:_** SQL, Tableau, Excel, Hypothesis Testing, Data Visualization.<br><br>
 
----
-
 ## Technical Skills
 
 **Programming Languages:** Python, R, SQL, JavaScript, C#, HTML, CSS, ASP .Net Core MVC, SAS<br>
@@ -45,8 +39,6 @@
 **Machine Learning:** Supervised, Unsupervised Learning, Classification, Regularization, CNN, RNN, Anomaly Detection, K-NN, SVM, Naïve Bayes, Decision Tree, Random Forest, Keras, TensorFlow, Text Mining, Natural Language processing (NLP)<br>
 **Statistics:** Descriptive and Inferential Statistics, Linear (OLS, GLM), Logistic, Poisson, Hypothesis Testing, ANOVA, Survival Analysis, Mixed Models, Linear-Mixed Effect Models (LMER), A/B Testing, Data Science Pipelines, Time Series, APIs, Excel, Git<br><br>
 
----
-
 ## Education
 
 **Master of Science in Business Analytics and Information Systems (MS-BAIS)** @ [University of South Florida](https://www.usf.edu/) _(Aug 2020 - May 2022)_ <br>
@@ -56,8 +48,6 @@
 **Bachelor of Technology in Mechanical Engineering (MECH)** @ [GITAM University](https://www.gitam.edu/) _(Jul 2012 - May 2016)_ <br>
 - Cumulative GPA: 3.5/4.0
 - Coursework: Mathematics, Probability, Supply Chain Analytics, Management Information Systems, Linear Algebra and Statistics.
-
----
 
 ## Projects
 
@@ -82,8 +72,8 @@ _(R, Tableau, Python, Multi-Level Regression, Linear Mixed Effect Models (LMER),
 - Built a Multi-level regression model to predict House Sale Prices in USA based on various KPI’s.
 - Recommended changes in minimum wage and subsidies for owners that can be implemented to reduce the prices.
 
----
+## Let's Connect
 
-**_Thanks for stopping by. You can find my portfolio and projects in the following links_**
+**_Thanks for stopping by. You can find my portfolio and my other projects in the following links_**
 
 [Email](mailto:suryateja.0153@gmail.com) / [Website](https://suryateja0153.github.io/) / [LinkedIn](https://www.linkedin.com/in/suryateja-chalapati/) / [GitHub](https://github.com/suryateja0153) / [Twitter](https://twitter.com/suryateja0153)
