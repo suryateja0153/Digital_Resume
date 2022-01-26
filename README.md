@@ -1,6 +1,6 @@
 # Suryateja Chalapati
 
-<div style="text-align: justify"><i>Experienced Data Science professional with 4+ years hands-on experience in statistical modelling and machine learning techniques. Exceptional understanding of descriptive and predictive analytics. I have extensively worked on data processing, interpreting complex and multidimensional datasets, database management, programming, problem solving, visualizations and reporting, making a true impact across various domains and industries.</i></div>
+<div style="text-align: justify"><i>Experienced Data Science professional with 4+ years hands-on experience in statistical modelling and machine learning techniques. Exceptional understanding of descriptive and predictive analytics. I have extensively worked on data processing, interpreting complex and multidimensional datasets, database management, programming, problem solving, visualizations and reporting, making a true impact across various domains and industries.</i></div><br>
 
 [Email](mailto:suryateja.0153@gmail.com) / [Website](https://suryateja0153.github.io/) / [LinkedIn](https://www.linkedin.com/in/suryateja-chalapati/) / [GitHub](https://github.com/suryateja0153) / [Twitter](https://twitter.com/suryateja0153)
 
