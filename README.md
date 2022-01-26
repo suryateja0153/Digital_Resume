@@ -74,6 +74,6 @@ _(R, Tableau, Python, Multi-Level Regression, Linear Mixed Effect Models (LMER),
 
 ## Let's Connect
 
-**_Thanks for stopping by. You can find my portfolio and my other projects in the following links_**
+**_Thanks for stopping by. You can find my portfolio and my other projects from the following links._**
 
 [Email](mailto:suryateja.0153@gmail.com) / [Website](https://suryateja0153.github.io/) / [LinkedIn](https://www.linkedin.com/in/suryateja-chalapati/) / [GitHub](https://github.com/suryateja0153) / [Twitter](https://twitter.com/suryateja0153)
