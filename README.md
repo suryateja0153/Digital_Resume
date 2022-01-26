@@ -1,8 +1,8 @@
 # Suryateja Chalapati
 
-<div style="text-align: justify"><i>Experienced Data Science professional with 4+ years hands-on experience in statistical modelling and machine learning techniques. Exceptional understanding of descriptive and predictive analytics. I have extensively worked on data processing, interpreting complex and multidimensional datasets, database management, programming, problem solving, visualizations and reporting, making a true impact across various domains and industries.</i></div><br>
+<div style="text-align: justify"><i>Experienced Data Science professional with 4+ years hands-on experience in statistical modelling and machine learning techniques. Exceptional understanding of descriptive and predictive analytics. I have extensively worked on data processing, interpreting complex and multidimensional datasets, database management, programming, problem solving, visualizations and reporting, making a true impact across various domains and industries.</i></div><br><br>
 
-[Email](mailto:suryateja.0153@gmail.com) / [Website](https://suryateja0153.github.io/) / [LinkedIn](https://www.linkedin.com/in/suryateja-chalapati/) / [GitHub](https://github.com/suryateja0153) / [Twitter](https://twitter.com/suryateja0153)
+[Email](mailto:suryateja.0153@gmail.com) / [Website](https://suryateja0153.github.io/) / [LinkedIn](https://www.linkedin.com/in/suryateja-chalapati/) / [GitHub](https://github.com/suryateja0153) / [Twitter](https://twitter.com/suryateja0153) <br><br>
 
 ## Experience
 
@@ -31,12 +31,12 @@
 
 ## Technical Skills
 
-**Programming Languages:** Python, R, SQL, JavaScript, C#, HTML, CSS, ASP .Net Core MVC, SAS<br>
-**Databases:** Oracle, My SQL, SQL Server, MongoDB, Cassandra, ETL<br>
-**Big Data & Deployment:** Apache Hadoop, Hive, Impala, Spark, Spark SQL, MLlib, Databricks, AWS Sagemaker, Docker, TensorFlow Serving<br>
-**Visualization & Cloud Tools:** Google Cloud (GCP), AWS, EC2, S3, Redshift, Microsoft Azure, Tableau, Power BI, Excel, VBA<br>
-**Domain Experience:** IT, E-Commerce, Healthcare & Automotive<br>
-**Machine Learning:** Supervised, Unsupervised Learning, Classification, Regularization, CNN, RNN, Anomaly Detection, K-NN, SVM, Naïve Bayes, Decision Tree, Random Forest, Keras, TensorFlow, Text Mining, Natural Language processing (NLP)<br>
+**Programming Languages:** Python, R, SQL, JavaScript, C#, HTML, CSS, ASP .Net Core MVC, SAS<br><br>
+**Databases:** Oracle, My SQL, SQL Server, MongoDB, Cassandra, ETL<br><br>
+**Big Data & Deployment:** Apache Hadoop, Hive, Impala, Spark, Spark SQL, MLlib, Databricks, AWS Sagemaker, Docker, TensorFlow Serving<br><br>
+**Visualization & Cloud Tools:** Google Cloud (GCP), AWS, EC2, S3, Redshift, Microsoft Azure, Tableau, Power BI, Excel, VBA<br><br>
+**Domain Experience:** IT, E-Commerce, Healthcare & Automotive<br><br>
+**Machine Learning:** Supervised, Unsupervised Learning, Classification, Regularization, CNN, RNN, Anomaly Detection, K-NN, SVM, Naïve Bayes, Decision Tree, Random Forest, Keras, TensorFlow, Text Mining, Natural Language processing (NLP)<br><br>
 **Statistics:** Descriptive and Inferential Statistics, Linear (OLS, GLM), Logistic, Poisson, Hypothesis Testing, ANOVA, Survival Analysis, Mixed Models, Linear-Mixed Effect Models (LMER), A/B Testing, Data Science Pipelines, Time Series, APIs, Excel, Git<br><br>
 
 ## Education
@@ -55,22 +55,22 @@
 **Growth Prediction from Emerging Technologies** <br>
 _(NLP, R, Python, NLTK, Gensim, ETL, Web Scraping, Data Warehouse, Topic Modelling, LDA, TFIDF, Text Analytics, Similarity Analysis)_ <br>
 - Extracted SEC 10K text data for companies in the IT domain. Built ETL packages for extracting YouTube transcripts.
-- Applied topic modelling techniques like LDA, TFIDF, LSA to identify correlation between SEC and YouTube data.<br>
+- Applied topic modelling techniques like LDA, TFIDF, LSA to identify correlation between SEC and YouTube data.<br><br>
 
 **Medical No-Show Prediction** <br>
 _(Data Science Pipelines, Spark SQL, Python, Spark, Spark MLlib, Databricks, Classification, Azure, ML Pipeline)_ <br>
 - Built an ML pipeline to predict No-Shows with an Accuracy of 80% and made recommendations on wait times and scheduling.
-- Leveraged Azure Databricks analytics platform to create data pre-processing and model execution routines.<br>
+- Leveraged Azure Databricks analytics platform to create data pre-processing and model execution routines.<br><br>
 
-**Multi-Class Malware Classification**
+**Multi-Class Malware Classification** <br>
 _(Classification, Python, CNN, TensorFlow, Keras, Neural Networks, Unbalanced Data, GCP)_ <br>
 - Built a Multi-level classification model to flag malicious software into nine key category bins.
-- Achieved the lowest misclassification rate at 1.4 (Target 0) and a Test Accuracy of 94%.<br>
+- Achieved the lowest misclassification rate at 1.4 (Target 0) and a Test Accuracy of 94%.<br><br>
 
-**Average House Price Prediction**
+**Average House Price Prediction** <br>
 _(R, Tableau, Python, Multi-Level Regression, Linear Mixed Effect Models (LMER), Statistical Modelling)_ <br>
 - Built a Multi-level regression model to predict House Sale Prices in USA based on various KPI’s.
-- Recommended changes in minimum wage and subsidies for owners that can be implemented to reduce the prices.
+- Recommended changes in minimum wage and subsidies for owners that can be implemented to reduce the prices.<br><br>
 
 ## Let's Connect
 
