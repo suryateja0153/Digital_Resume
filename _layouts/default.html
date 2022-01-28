@@ -23,7 +23,6 @@
 
         <p>Data Scientist | NLP | ML </p>
 
-        <!-- {% endif %} -->
       </header>
       <section>
 
@@ -31,8 +30,6 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-
         <a href="https://twitter.com/suryateja0153" title="Link to Twitter Profile">
           <img src="/images/twitter.svg" alt="Twitter">
         </a>
@@ -42,7 +39,7 @@
         <a href=https://www.linkedin.com/in/suryateja-chalapati">
           <img src="/images/linkedin.svg" alt="Linkedin">
         </a>
-
+        {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
