@@ -3,19 +3,19 @@
 <div style="text-align: justify"><i>Experienced Data Science professional with 4+ years hands-on experience in statistical modelling and machine learning techniques. Exceptional understanding of descriptive and predictive analytics. I have extensively worked on data processing, interpreting complex and multidimensional datasets, database management, programming, problem solving, visualizations and reporting, making a true impact across various domains and industries.</i></div><br><br>
 
 ## Experience
-
+{: style="text-align: justify" }
 **Data Scientist Intern** @ [University of South Florida](https://www.usf.edu/) _(Jan 2021 - Present)_ <br>
 - Estimated Kickstarter project consistency at 7% based on project description by conducting a similarity analysis in python.
 - Applied text pre-processing techniques on the data and did a similarity analysis on two of the key evaluation features which shows the project goals consistency on Kickstarter.
 - Estimated that 36% of reddit content was regarding health issues in 2020 in python using NLP techniques like LDA, TF-IDF etc.
 - Applied text pre-processing techniques on the data and did Topic Modelling analysis which gave a clear picture of the nature of content posted on reddit.
 - **_Technologies & Concepts Used:_** Python, R, NLTK, Gensim, Natural Language Processing, Text Mining, Similarity Analysis.<br><br>
-
+{: style="text-align: justify" }
 **Machine Learning Analyst** @ [Tampa General Hospital](https://www.tgh.org/) _(Aug 2020 - Dec 2020)_ <br>
 - Increased clinic operating efficiency by 16% by developing a process flow using Six Sigma methods.
 - Built metrics and visualizations which gives high level operational overview for the top management.
 - **_Technologies & Concepts Used:_** Python, Tableau, PowerBI, Excel, Data Visualization.<br><br>
-
+{: style="text-align: justify" }
 **Junior Data Scientist** @ [Amazon](https://www.amazon.com/) _(Sep 2017 - Jul 2019)_ <br>
 - Developed and maintained PAN-EU Inbound Analytics and Reporting tools that facilitated freight planning and scheduling.
 - Reduced overall freight delay risk by 12% by building Automation Tools and Risk Assessment Metrics using Tableau and VBA.
