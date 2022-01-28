@@ -76,7 +76,7 @@ _(Classification, Python, CNN, TensorFlow, Keras, Neural Networks, Unbalanced Da
 - Built a Multi-level classification model to flag malicious software into nine key category bins.
 - Achieved the lowest misclassification rate at 1.4 (Target 0) and a Test Accuracy of 94%.<br><br>
 {: style="text-align: justify" }
-**Average House Price Prediction** - [GitHub](https://github.com/suryateja0153/Reddit-NLP-Text-Mining)<br>
+**Multi-Level House Price Prediction** - [GitHub](https://github.com/suryateja0153/Multi-Level-Data-House-Price-Prediction-USA)<br>
 _(R, Tableau, Python, Multi-Level Regression, Linear Mixed Effect Models (LMER), Statistical Modelling)_ <br>
 - Built a Multi-level regression model to predict House Sale Prices in USA based on various KPI’s.
 - Recommended changes in minimum wage and subsidies for owners that can be implemented to reduce the prices.<br><br>
