@@ -1,5 +1,5 @@
 ## Summary
-{: style="text-align: justify" }
+<!-- {: style="text-align: justify" } -->
 <i>Experienced Data Science professional with 4+ years hands-on experience in statistical modelling and machine learning techniques. Exceptional understanding of descriptive and predictive analytics. I have extensively worked on data processing, interpreting complex and multidimensional datasets, database management, programming, problem solving, visualizations and reporting, making a true impact across various domains and industries.</i><br><br>
 
 ## Experience
