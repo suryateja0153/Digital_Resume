@@ -2,8 +2,6 @@
 
 <div style="text-align: justify"><i>Experienced Data Science professional with 4+ years hands-on experience in statistical modelling and machine learning techniques. Exceptional understanding of descriptive and predictive analytics. I have extensively worked on data processing, interpreting complex and multidimensional datasets, database management, programming, problem solving, visualizations and reporting, making a true impact across various domains and industries.</i></div><br><br>
 
-[Email](mailto:suryateja.0153@gmail.com) / [Website](https://suryateja0153.github.io/) / [LinkedIn](https://www.linkedin.com/in/suryateja-chalapati/) / [GitHub](https://github.com/suryateja0153) / [Twitter](https://twitter.com/suryateja0153) <br><br>
-
 ## Experience
 
 **Data Scientist Intern** @ [University of South Florida](https://www.usf.edu/) _(Jan 2021 - Present)_ <br>
@@ -86,4 +84,4 @@ _(R, Tableau, Python, Multi-Level Regression, Linear Mixed Effect Models (LMER),
 
 **_Thanks for stopping by. You can find my portfolio and my other projects from the following links._**
 
-[Email](mailto:suryateja.0153@gmail.com) / [Website](https://suryateja0153.github.io/) / [LinkedIn](https://www.linkedin.com/in/suryateja-chalapati/) / [GitHub](https://github.com/suryateja0153) / [Twitter](https://twitter.com/suryateja0153)
+[Email](mailto:suryateja.0153@gmail.com) / [Website](https://suryatejachalapati.com/) / [LinkedIn](https://www.linkedin.com/in/suryateja-chalapati/) / [GitHub](https://github.com/suryateja0153) / [Twitter](https://twitter.com/suryateja0153)
