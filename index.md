@@ -8,11 +8,11 @@ _Experienced Data Science professional with 4+ years hands-on experience in stat
 {: style="text-align: justify" }
 _Summary: Deployed Natural Language Processing Models based on Similarity and Semantic Analysis on Unstructured Data_ <br>
 {: style="text-align: justify" }
-- Estimated Kickstarter project consistency at 7% based on project description by extracting Unstructured (text) data using API. [GitHub](https://github.com/suryateja0153/Kickstarter-NLP-Similarity-Analysis)
+- Estimated [Kickstarter](https://github.com/suryateja0153/Kickstarter-NLP-Similarity-Analysis) Project consistency at 7% based on project description by extracting Unstructured (text) data using API.
 - Applied text pre-processing techniques on the data and did a Similarity Analysis using Python with NLP techniques like Cosine Similarity.
-- Estimated that 36% of reddit content was regarding health issues in 2020 by fetching Unstructured data using Web-Scraping. [GitHub](https://github.com/suryateja0153/Reddit-NLP-Text-Mining)
+- Estimated that 36% of [Reddit](https://github.com/suryateja0153/Reddit-NLP-Text-Mining) posts were regarding health issues in 2020 by fetching Unstructured data using Web-Scraping.
 - Applied text pre-processing techniques on the data and did Semantic Analysis using Python with NLP techniques like LDA, TFIDF, etc.
-- Designed a website for an AI research study and hosted on GCP that could handle over 1000 daily visits. [GitHub](https://github.com/suryateja0153/AI-Teammate-Web-Application)
+- Designed a website for an [AI Research](https://github.com/suryateja0153/AI-Teammate-Web-Application) study and hosted on GCP that could handle over 1000 daily visits.
 - **_Technologies & Concepts Used:_** Python, R, NLTK, Gensim, Natural Language Processing, Text Mining, Similarity Analysis.<br><br>
 {: style="text-align: justify" }
 **Machine Learning Analyst** @ [Tampa General Hospital](https://www.tgh.org/) _(Aug 2020 - Dec 2020)_ <br>
