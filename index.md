@@ -5,7 +5,9 @@ _Experienced Data Science professional with 4+ years hands-on experience in stat
 ## Experience
 {: style="text-align: justify" }
 **Data Scientist Intern** @ [University of South Florida](https://www.usf.edu/) _(Jan 2021 - Present)_ <br>
+{: style="text-align: justify" }
 _Summary: Deployed Natural Language Processing Models based on Similarity and Semantic Analysis on Unstructured Data_ <br>
+{: style="text-align: justify" }
 - Estimated Kickstarter project consistency at 7% based on project description by extracting Unstructured (text) data using API. [GitHub](https://github.com/suryateja0153/Kickstarter-NLP-Similarity-Analysis)
 - Applied text pre-processing techniques on the data and did a Similarity Analysis using Python with NLP techniques like Cosine Similarity.
 - Estimated that 36% of reddit content was regarding health issues in 2020 by fetching Unstructured data using Web-Scraping. [GitHub](https://github.com/suryateja0153/Reddit-NLP-Text-Mining)
@@ -14,7 +16,9 @@ _Summary: Deployed Natural Language Processing Models based on Similarity and Se
 - **_Technologies & Concepts Used:_** Python, R, NLTK, Gensim, Natural Language Processing, Text Mining, Similarity Analysis.<br><br>
 {: style="text-align: justify" }
 **Machine Learning Analyst** @ [Tampa General Hospital](https://www.tgh.org/) _(Aug 2020 - Dec 2020)_ <br>
+{: style="text-align: justify" }
 _Summary: Optimized Medical Clinic Operations by Building ML Models and Metrics_ <br>
+{: style="text-align: justify" }
 - Improved clinic Operating Efficiency by 38% by optimizing the patient processing flow by building Random Forest on key features. Automated model training and publishing by using Scikit-Learn data pipelines.
 - Built metrics and visualizations in Tableau and deployed on AWS which gives high level operational overview for the top management.
 - **_Technologies & Concepts Used:_** Python, Tableau, PowerBI, Excel, Data Visualization.<br><br>
