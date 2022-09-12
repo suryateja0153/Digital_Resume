@@ -4,7 +4,16 @@ _Experienced Data Science professional with 4+ years hands-on experience in stat
 {: style="text-align: justify" }
 ## Experience
 {: style="text-align: justify" }
-**Data Scientist Intern** @ [University of South Florida](https://www.usf.edu/) _(Jan 2021 - Present)_ <br>
+**Data Scientist** @ [XSELL Technologies](https://www.xselltechnologies.com/) _(Jun 2022 - Sep 2022)_ <br>
+{: style="text-align: justify" }
+_Summary: Developed advanced Natural Language Processing Models, Pipelines and Metrics using Unstructured Data for Multiple High Profile Clients_ <br>
+{: style="text-align: justify" }
+- Built SpaCy Transformers Natural Language Models and Pipelines with Accuracy of 85% by implementing custom components.
+- Estimated metrics like Precision and Recall for major client that helped with process improvements on advanced model development.
+- Worked on automating ML processes to streamline the model development, testing and deployment workflow.
+- **_Technologies & Concepts Used:_** Python, SQL, Excel, NLP, Statistics, Machine Learning, AWS, Data Mining, Supervised and Unsupervised Learning.<br><br>
+{: style="text-align: justify" }
+**Data Scientist Intern** @ [University of South Florida](https://www.usf.edu/) _(Jan 2021 - May 2022)_ <br>
 {: style="text-align: justify" }
 _Summary: Deployed Natural Language Processing Models based on Similarity and Semantic Analysis on Unstructured Data_ <br>
 {: style="text-align: justify" }
@@ -47,7 +56,7 @@ _Summary: Optimized Medical Clinic Operations by Building ML Models and Metrics_
 {: style="text-align: justify" }
 **Programming Languages:** Python, R, SQL, JavaScript, C#, HTML, CSS, ASP .Net Core MVC, SAS<br><br>
 {: style="text-align: justify" }
-**Databases:** Oracle, My SQL, SQL Server, MongoDB, Cassandra, ETL<br><br>
+**Databases:** Oracle, My SQL, SQL Server, MongoDB, Cassandra, Snowflake, ETL<br><br>
 {: style="text-align: justify" }
 **Big Data & Deployment:** Apache Hadoop, Hive, Impala, Spark, Spark SQL, MLlib, Databricks, AWS Sagemaker, Docker, TensorFlow Serving<br><br>
 {: style="text-align: justify" }
