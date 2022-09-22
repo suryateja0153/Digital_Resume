@@ -9,9 +9,12 @@ _Experienced Data Science professional with 4+ years hands-on experience in stat
 _Summary: Developed advanced Natural Language Processing Models, Pipelines and Metrics using Unstructured Data for Multiple High Profile Clients_ <br>
 {: style="text-align: justify" }
 - Built SpaCy Transformers Natural Language Models and Pipelines with Accuracy of 85% by implementing custom components.
-- Estimated metrics like Precision and Recall for major client that helped with process improvements on advanced model development.
+- Estimated metrics like Precision and Recall that helped with process improvements, enabling $500,000 in business for a major client.
 - Worked on automating ML processes to streamline the model development, testing and deployment workflow.
-- **_Technologies & Concepts Used:_** Python, SQL, Excel, NLP, Statistics, Machine Learning, AWS, Data Mining, Supervised and Unsupervised Learning.<br><br>
+- Finetuned ALBERT Transformer models using AWS Sagemaker and HuggingFace with 5TB of de-identified transcript data.
+- Designed and architected end-to-end MLOps pipeline leading to 60% increment in model operational efficiency.
+- Automated model training pipeline by Containerizing training code which reduced model deployment time by 15%.
+- **_Technologies & Concepts Used:_** Python, SQL, Excel, NLP, Statistics, Machine Learning, AWS, Snowflake, Data Mining, Supervised and Unsupervised Learning, Advanced Models.<br><br>
 {: style="text-align: justify" }
 **Data Scientist Intern** @ [University of South Florida](https://www.usf.edu/) _(Jan 2021 - May 2022)_ <br>
 {: style="text-align: justify" }
