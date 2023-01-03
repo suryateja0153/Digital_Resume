@@ -4,7 +4,7 @@ _Experienced Data Science/Engineer professional with 6 years hands-on experience
 {: style="text-align: justify" }
 ## Experience
 {: style="text-align: justify" }
-**Data Scientist** @ [XSELL Technologies](https://www.xselltechnologies.com/) _(Jun 2022 - Sep 2022)_ <br>
+**Data Scientist** @ [XSELL Technologies](https://www.xselltechnologies.com/) _(Jun 2022 - Present)_ <br>
 {: style="text-align: justify" }
 _Summary: Developed advanced Natural Language Processing Models, Pipelines and Metrics using Unstructured Data for Multiple High Profile Clients_ <br>
 {: style="text-align: justify" }
