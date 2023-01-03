@@ -1,6 +1,6 @@
 ## Summary
 {: style="text-align: justify" }
-_Experienced Data Science professional with 4+ years hands-on experience in statistical modelling and machine learning techniques. Exceptional understanding of descriptive and predictive analytics. I have extensively worked on data processing, interpreting complex and multidimensional datasets, database management, programming, problem solving, visualizations and reporting, making a true impact across various domains and industries._<br><br>
+_Experienced Data Science/Engineer professional with 6 years hands-on experience in Designing data-intensive applications using Hadoop Ecosystem and Big Data Analytical, Cloud Data engineering (AWS, GCP), Data Visualization, Data Warehousing, Reporting, Data Pipelines and Data Quality solutions. Hands-on expertise with data engineering stack, including Python, SQL, and worked with databases like My SQL, SQL Server, Snowflake, Mongo DB, Cassandra and writing ETL’s. I have also Built Statistical and Machine Learning models. Exceptional understanding of Descriptive and Predictive Analytics. I have extensively worked on Data Preprocessing, Interpreting Complex and Multidimensional Datasets, Database Management, Programming, Problem Solving, Model Deployment and Maintenance, Model Optimization, Metrics etc. making a true impact across various domains and industries._<br><br>
 {: style="text-align: justify" }
 ## Experience
 {: style="text-align: justify" }
@@ -16,7 +16,7 @@ _Summary: Developed advanced Natural Language Processing Models, Pipelines and M
 - Automated model training pipeline by Containerizing training code which reduced model deployment time by 15%.
 - **_Technologies & Concepts Used:_** Python, SQL, Excel, NLP, Statistics, Machine Learning, AWS, Snowflake, Data Mining, Supervised and Unsupervised Learning, Advanced Models.<br><br>
 {: style="text-align: justify" }
-**Data Scientist Intern** @ [University of South Florida](https://www.usf.edu/) _(Jan 2021 - May 2022)_ <br>
+**Data Scientist** @ [University of South Florida](https://www.usf.edu/) _(Jan 2021 - May 2022)_ <br>
 {: style="text-align: justify" }
 _Summary: Deployed Natural Language Processing Models based on Similarity and Semantic Analysis on Unstructured Data_ <br>
 {: style="text-align: justify" }
@@ -27,11 +27,12 @@ _Summary: Deployed Natural Language Processing Models based on Similarity and Se
 - Designed a website for an [AI Research](https://github.com/suryateja0153/AI-Teammate-Web-Application) study and hosted on GCP that could handle over 1000 daily visits.
 - **_Technologies & Concepts Used:_** Python, R, NLTK, Gensim, Natural Language Processing, Text Mining, Similarity Analysis.<br><br>
 {: style="text-align: justify" }
-**Machine Learning Analyst** @ [Tampa General Hospital](https://www.tgh.org/) _(Aug 2020 - Dec 2020)_ <br>
+**Machine Learning Engineer** @ [Tampa General Hospital](https://www.tgh.org/) _(Feb 2020 - Dec 2020)_ <br>
 {: style="text-align: justify" }
 _Summary: Optimized Medical Clinic Operations by Building ML Models and Metrics_ <br>
 {: style="text-align: justify" }
-- Improved clinic Operating Efficiency by 38% by optimizing the patient processing flow by building Random Forest on key features. Automated model training and publishing by using Scikit-Learn data pipelines.
+- Improved clinic Operating Efficiency by 38% by optimizing the patient processing flow by building Random Forest on key features.
+- Automated model training and publishing by using Scikit-Learn data pipelines.
 - Built metrics and visualizations in Tableau and deployed on AWS which gives high level operational overview for the top management.
 - **_Technologies & Concepts Used:_** Python, Tableau, PowerBI, Excel, Data Visualization.<br><br>
 {: style="text-align: justify" }
@@ -45,10 +46,16 @@ _Summary: Optimized Medical Clinic Operations by Building ML Models and Metrics_
 - Increased total Annual Shipments by 34% over a span of 6 months by developing key processes and metrics by A/B Testing.
 - **_Technologies & Concepts Used:_** Python, R, SQL, Tableau, Excel, Machine Learning, AWS, Oracle, Data Mining, Supervised Learning, Data Visualization.<br><br>
 {: style="text-align: justify" }
-**Data Scientist Trainee** @ [Mahindra & Mahindra](https://www.mahindra.com/) _(Aug 2016 - Aug 2017)_ <br>
-- Predicted Rework Rate for exports with 89% Accuracy by deploying a predictive model over a 3-month period of A/B testing.
-- Saved over $90,000 in costs by utilizing lean-agile methods and by leveraging data achieved a 15.3% reduction in rollout times.
-- **_Technologies & Concepts Used:_** SQL, Tableau, Excel, Hypothesis Testing, Data Visualization.<br><br>
+**Data Engineer** @ [Mahindra & Mahindra](https://www.mahindra.com/) _(Aug 2016 - Aug 2017)_ <br>
+{: style="text-align: justify" }
+_Summary: Built AWS data pipelines and Metrics for production forecasting and Optimized process flow to achieve significant cost savings_ <br>
+{: style="text-align: justify" }
+- Used various AWS services including S3, EC2, AWS Glue, Athena, RedShift, EMR, SNS, SQS, DMS, Kinesis.
+- Extracted data from multiple source systems S3, Redshift, RDS and Created multiple tables/databases in Glue Catalog by creating Glue Crawlers.
+- Used AWS data pipeline for Data Extraction, Transformation and Loading from homogeneous or heterogeneous data sources and built various graphs for business decision-making using Python matplot library.
+- Predicted Rework Rate for exports with 89% Accuracy by deploying a predictive model over a 3-month period of AB testing.
+- Saved over $90,000 in Costs by utilizing lean-agile methods and by leveraging data achieved a 15.3% reduction in rollout times.
+- **_Technologies & Concepts Used:_** AWS, SQL, Tableau, Excel, Machine Learning, Hypothesis Testing, Data Visualization.<br><br>
 {: style="text-align: justify" }
 **Analytics Intern** @ [Mahindra & Mahindra](https://www.mahindra.com/) _(May 2015)_ <br>
 - Created interactive dashboards by analyzing patterns in the daily production metrics.
