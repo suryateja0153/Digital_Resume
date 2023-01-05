@@ -105,7 +105,7 @@ _Summary: Built tools and methods for Optimizing production process flow_ <br>
 {: style="text-align: justify" }
 ## Projects
 {: style="text-align: justify" }
-**Applied Data Scientist** @ [University of South Florida](https://www.usf.edu/) _(Jan 2021 - Present)_ <br><br>
+**Applied Data Scientist** @ [University of South Florida](https://www.usf.edu/) _(Jan 2021 - May 2022)_ <br><br>
 **Patient Turnup Rate at Clinics Analysis:** Forecast Patient Show-Up Rate at Medical Clinics - [GitHub](https://github.com/suryateja0153/BigData-Project-Medical-No-Shows)<br>
 {: style="text-align: justify" }
 _(Data Science Pipelines, Spark SQL, Python, Spark, Spark MLlib, Databricks, Classification, Azure, ML Pipeline)_ <br>
