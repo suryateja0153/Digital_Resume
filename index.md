@@ -1,6 +1,6 @@
 ## Summary
 {: style="text-align: justify" }
-_Experienced Data Science/Engineer professional with 6 years hands-on experience in Designing data-intensive applications using Hadoop Ecosystem and Big Data Analytical, Cloud Data engineering (AWS, GCP), Data Visualization, Data Warehousing, Reporting, Data Pipelines and Data Quality solutions. Hands-on expertise with data engineering stack, including Python, SQL, and worked with databases like My SQL, SQL Server, Snowflake, Mongo DB, Cassandra and writing ETL’s. I have also Built Statistical and Machine Learning models. Exceptional understanding of Descriptive and Predictive Analytics. I have extensively worked on Data Preprocessing, Interpreting Complex and Multidimensional Datasets, Database Management, Programming, Problem Solving, Model Deployment and Maintenance, Model Optimization, Metrics etc. making a true impact across various domains and industries._<br><br>
+_Experienced Data Science/Engineer professional with 7+ years hands-on experience in Designing data-intensive applications using Hadoop Ecosystem and Big Data Analytical, Cloud Data engineering (AWS, GCP), Data Visualization, Data Warehousing, Reporting, Data Pipelines and Data Quality solutions. Hands-on expertise with data engineering stack, including Python, SQL, and worked with databases like My SQL, SQL Server, Snowflake, Mongo DB, Cassandra and writing ETL’s. I have also Built Statistical and Machine Learning models. Exceptional understanding of Descriptive and Predictive Analytics. I have extensively worked on Data Preprocessing, Interpreting Complex and Multidimensional Datasets, Database Management, Programming, Problem Solving, Model Deployment and Maintenance, Model Optimization, Metrics etc. making a true impact across various domains and industries._<br><br>
 {: style="text-align: justify" }
 ## Experience
 {: style="text-align: justify" }
@@ -16,7 +16,7 @@ _Summary: Developed advanced Natural Language Processing Models, Pipelines and M
 - Automated model training pipeline by Containerizing training code which reduced model deployment time by 15%.
 - **_Technologies & Concepts Used:_** Python, SQL, Excel, NLP, Statistics, Machine Learning, AWS, Snowflake, Data Mining, Supervised and Unsupervised Learning, Advanced Models.<br><br>
 {: style="text-align: justify" }
-**Data Scientist** @ [University of South Florida](https://www.usf.edu/) _(Jan 2021 - May 2022)_ <br>
+**Data Scientist** @ [University of South Florida](https://www.usf.edu/) _(Aug 2021 - May 2022)_ <br>
 {: style="text-align: justify" }
 _Summary: Deployed Natural Language Processing Models based on Similarity and Semantic Analysis on Unstructured Data_ <br>
 {: style="text-align: justify" }
@@ -26,6 +26,18 @@ _Summary: Deployed Natural Language Processing Models based on Similarity and Se
 - Applied text pre-processing techniques on the data and did Semantic Analysis using Python with NLP techniques like LDA, TFIDF, etc.
 - Designed a website for an [AI Research](https://github.com/suryateja0153/AI-Teammate-Web-Application) study and hosted on GCP that could handle over 1000 daily visits.
 - **_Technologies & Concepts Used:_** Python, R, NLTK, Gensim, Natural Language Processing, Text Mining, Similarity Analysis.<br><br>
+{: style="text-align: justify" }
+**Data Engineer** @ [University of South Florida](https://www.usf.edu/) _(Jan 2021 - Jul 2021)_ <br>
+{: style="text-align: justify" }
+_Summary: Built GCP Data  Pipelines and Forecast Company Growth from Emerging Technologies using Social Media and Financials_ - [GitHub](https://github.com/suryateja0153/Growth-Prediction-From-Emerging-Technologies)<br>
+{: style="text-align: justify" }
+- Fetched 100GB of SEC 10K text data by utilizing Web-Scraping techniques and piloted ETL packages for extracting YouTube transcripts.
+- Prepared a text corpus of SEC business and risk sections and YouTube transcripts for ~70 companies in the IT domain.
+- Built Data Pipelines in airflow in GCP for ETL related jobs using different airflow operators.
+- Applied data preprocessing, cleaning, and transformation steps to build a 100+ feature set for modeling across multiple documents.
+- Performed Similarity Analysis after applying Topic Modeling techniques like LDA, TFIDF which yielded Highest Correlation of 38%.
+- Emergent technologies were taken from Gartner hype cycle reports for the last 5 years.
+- **_Technologies & Concepts Used:_** GCP, Python, R, NLP, NLTK, Gensim, ETL, Web Scraping, Data Warehouse, Topic Modelling, LDA, TFIDF, Text Analytics, Similarity Analysis.<br><br>
 {: style="text-align: justify" }
 **Machine Learning Engineer** @ [Tampa General Hospital](https://www.tgh.org/) _(Feb 2020 - Dec 2020)_ <br>
 {: style="text-align: justify" }
@@ -57,7 +69,10 @@ _Summary: Built AWS data pipelines and Metrics for production forecasting and Op
 - Saved over $90,000 in Costs by utilizing lean-agile methods and by leveraging data achieved a 15.3% reduction in rollout times.
 - **_Technologies & Concepts Used:_** AWS, SQL, Tableau, Excel, Machine Learning, Hypothesis Testing, Data Visualization.<br><br>
 {: style="text-align: justify" }
-**Analytics Intern** @ [Mahindra & Mahindra](https://www.mahindra.com/) _(May 2015)_ <br>
+**Data Analyst** @ [Mahindra & Mahindra](https://www.mahindra.com/) _(Jun 2015 - Jul 2016)_ <br>
+{: style="text-align: justify" }
+_Summary: Built tools and methods for Optimizing production process flow_ <br>
+{: style="text-align: justify" }
 - Created interactive dashboards by analyzing patterns in the daily production metrics.
 - Assisted executives with defects reduction using data visualization in Excel which led to an increase in daily production by 9%.
 - **_Technologies & Concepts Used:_** SQL, Excel, Data Visualization.<br><br>
@@ -91,15 +106,6 @@ _Summary: Built AWS data pipelines and Metrics for production forecasting and Op
 ## Projects
 {: style="text-align: justify" }
 **Applied Data Scientist** @ [University of South Florida](https://www.usf.edu/) _(Jan 2021 - Present)_ <br><br>
-**Growth Prediction from Emerging Technologies:** Forecast Company Growth from Social Media and Financials - [GitHub](https://github.com/suryateja0153/Growth-Prediction-From-Emerging-Technologies)<br>
-{: style="text-align: justify" }
-_(NLP, R, Python, NLTK, Gensim, ETL, Web Scraping, Data Warehouse, Topic Modelling, LDA, TFIDF, Text Analytics, Similarity Analysis)_ <br>
-- Fetched 100GB of SEC 10K text data by utilizing Web-Scraping techniques and piloted ETL packages for extracting YouTube transcripts.
-- Prepared a text corpus of SEC business and risk sections and YouTube transcripts for ~70 companies in the IT domain.
-- Applied data preprocessing, cleaning, and transformation steps to build a 100+ feature set for modeling across multiple documents.
-- Performed Similarity Analysis after applying Topic Modeling techniques like LDA, TFIDF which yielded Highest Correlation of 38%.
-- Emergent technologies were taken from Gartner hype cycle reports for the last 5 years.<br><br>
-{: style="text-align: justify" }
 **Patient Turnup Rate at Clinics Analysis:** Forecast Patient Show-Up Rate at Medical Clinics - [GitHub](https://github.com/suryateja0153/BigData-Project-Medical-No-Shows)<br>
 {: style="text-align: justify" }
 _(Data Science Pipelines, Spark SQL, Python, Spark, Spark MLlib, Databricks, Classification, Azure, ML Pipeline)_ <br>
